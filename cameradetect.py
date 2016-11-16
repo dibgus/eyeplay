@@ -1,6 +1,6 @@
 import cv2
 import numpy
-contourminsize = pow(18, 2) #todo better size detection
+contourminsize = pow(15, 2) #todo better size detection
 camera = cv2.VideoCapture(0)
 (grab, template) = camera.read()
 if not grab:
@@ -26,10 +26,22 @@ while True:
     threshhold = cv2.dilate(threshhold, None, iterations=3)#external
     (contours, _) = cv2.findContours(threshhold.copy(), cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE) #get contours of image to find objects
     #combine large, overlapping contours with the small ones that may occupy it
-
+    '''
+    for i in range(0, len(contours) - 1):
+        rectA = cv2.boundingRect(contours[i])
+        rectB = cv2.boundingRect(contours[i + 1])
+        if (rectA[0] >= rectB[0] and rectA[0] + rectA[2] <= rectB[0] + rectB[2] and rectA[1] >= rectB[1] and rectA[1] + rectA[3] <= rectB[1] + rectB[3])\
+                or rectB[0] >= rectA[0] and rectB[0] + rectB[2] <= rectA[0] + rectA[2] and rectB[1] >= rectA[1] and rectB[1] + rectB[3] <= rectA[1] + rectA[3]: #if there is an overlapping area
+            contours.pop(i)
+            contours.pop(i)
+            contours.append((min(rectA[0], rectB[0]), min(rectA[1], rectB[1]), max(rectA[0] + rectA[2], rectB[0], rectB[2]), max(rectA[1] + rectA[3], rectB[1] + rectB[3])))
+    '''
     #iterate thru contours, draw box if contourminsize is met
     for c in contours:
-        (x, y, w, h) = cv2.boundingRect(c)
+        if(isinstance(c, tuple)):
+            (x, y, w, h) = c
+        else:
+            (x, y, w, h) = cv2.boundingRect(c)
         if contourminsize <= w * h:
             print("Contour Bounds: {}, {}, {}, {}".format(x, y, w, h))
             cv2.rectangle(frame, (x, y), (x + w, y + h), (255, 0, 0), 2)
