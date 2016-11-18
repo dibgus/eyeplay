@@ -1,6 +1,7 @@
 import socket
 import numpy
 import cv2
+import cameradetect
 
 def value_read(socket, bytesExpected):
     buffer = b''
@@ -11,6 +12,21 @@ def value_read(socket, bytesExpected):
         bytesExpected -= len(newbuffer)
     return buffer
 
+def read_frame(socket):
+    datalen = value_read(connection, 16)
+    stringData = value_read(connection, int(datalen))
+    data = numpy.fromstring(stringData, dtype='uint8')
+    return cv2.imdecode(data, 1)
+
+def return_display(socket, image):
+    encoding = [int(cv2.IMWRITE_JPEG_QUALITY), 90]
+    _,encodedimage = cv2.imencode('.png', image, encoding)
+    data = numpy.array(encodedimage)
+    datastring = data.tostring()
+    socket.send(str(len(datastring)).ljust(16))
+    socket.send(datastring)
+
+
 iptarget = '127.0.0.1'
 port = 3005
 
@@ -18,13 +34,16 @@ datalisten = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 datalisten.bind((iptarget, port))
 datalisten.listen(1) #listen for only one connection.
 connection, address = datalisten.accept()
-length = value_read(connection, 16)
-stringData = value_read(connection, int(length))
-data = numpy.fromstring(stringData, dtype='uint8')
+grayscaletemplate = read_frame(connection)
+cv2.imshow('Serverside', grayscaletemplate)
+while True:
+    grayscaleframe = read_frame(connection)
+    cameradetect.contourDetect(grayscaleframe, grayscaletemplate)
 
-grayscaletemplate = cv2.imdecode(data, 1)
-
-testdecode = cv2.imdecode(data,1)
-cv2.imshow('Serverside', testdecode)
+    return_display(connection, grayscaleframe) #todo change to finished image result
+    #todo sendback image for display
+    key = cv2.waitKey(1) & 0xFF
+    if key == ord('q'): #todo send packet to cut connection or have a timeout
+        break
 cv2.waitKey(0)
 cv2.destroyAllWindows()
