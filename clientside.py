@@ -14,9 +14,8 @@ data = numpy.array(imgencode)
 datastring = data.tostring()
 iptarget = '127.0.0.1'
 port = 3005
-connection = socket.socket()
-connection.connect((iptarget, port))
 connection = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+connection.connect((iptarget, port))
 connection.send(str(len(datastring)).ljust(16)) #send length of data
 connection.send(datastring) #send data
 

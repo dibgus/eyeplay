@@ -14,6 +14,7 @@ previousContours = None
 sizethreshold = 5
 distthreshold = 50
 movementoverlay = template.copy()
+objects = []
 while True:
     (grab,frame) = camera.read()
     if not grab:
@@ -56,13 +57,26 @@ while True:
         for c in contours:
             for i in range(0, len(previousContours)):
                 p = previousContours[i]
-                (xo, yo, w, h) = cv2.boundingRect(p)
+                (xo, yo, w, h) = cv2.boundingRect(p) #todo centralize coords
                 (xf, yf, w2, h2) = cv2.boundingRect(c)
                 if contourminsize <= w * h and contourminsize <= w2 * h2 and abs(w2 - w) <= sizethreshold and abs(h2 - h) <= sizethreshold and pow(pow(xf - xo, 2) + pow(yf - yo, 2), 0.5) <= distthreshold:
                     print("Contour Box matched: movement drawing")
-                    cv2.line(frame, (xo + w/2, yo + h/2), (xf + w/2, yf + h/2), (0, 255, 0), 3)
+                    if len(objects) == 0:
+                        objects.append([c, ((xo + w)/2, (yo + h)/2)])
+                    else:
+                        for i in range(0, len(objects)):
+                            (_, _, wstored, hstored) = cv2.boundingRect(objects[i][0])
+                            (xstored, ystored) = objects[i][len(objects[i]) - 1]
+                            if abs(w2 - wstored) <= sizethreshold and abs(h2 - hstored) <= sizethreshold and pow(
+                                        pow(xf - xstored, 2) + pow(yf - ystored, 2), 0.5) <= distthreshold:
+                                objects[i].append(((xf + w)/2, (yf + h2)/2)) #append new coord for draw
                     previousContours.pop(i)
                     break
+
+    #movement draw
+    for objectid in range (0, len(objects)):
+        for coords in range(2, len(objects[objectid])):
+            cv2.line(frame, objects[objectid][coords - 1], objects[objectid][coords])
     cv2.imshow("movement track", frame)
     previousContours = contours
 camera.release()

@@ -9,13 +9,14 @@ def value_read(socket, bytesExpected):
         if not newbuffer : return None
         buffer += newbuffer
         bytesExpected -= len(newbuffer)
+    return buffer
 
 iptarget = '127.0.0.1'
 port = 3005
 
 datalisten = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 datalisten.bind((iptarget, port))
-datalisten.listen(True)
+datalisten.listen(1) #listen for only one connection.
 connection, address = datalisten.accept()
 length = value_read(connection, 16)
 stringData = value_read(connection, int(length))
