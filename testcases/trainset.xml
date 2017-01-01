@@ -1,0 +1,3515 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='card-double_10.png'>
+    <box top='163' left='74' width='156' height='229'>
+      <label>cback</label>
+    </box>
+    <box top='186' left='480' width='152' height='236'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_11.png'>
+    <box top='167' left='77' width='152' height='229'>
+      <label>cback</label>
+    </box>
+    <box top='188' left='493' width='127' height='243'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_12.png'>
+    <box top='173' left='76' width='146' height='237'>
+      <label>cback</label>
+    </box>
+    <box top='176' left='492' width='135' height='225'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_13.png'>
+  </image>
+  <image file='card-double_14.png'>
+    <box top='205' left='70' width='159' height='248'>
+      <label>cback</label>
+    </box>
+    <box top='140' left='501' width='136' height='209'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_15.png'>
+    <box top='225' left='64' width='161' height='235'>
+      <label>cback</label>
+    </box>
+    <box top='121' left='505' width='137' height='240'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_16.png'>
+    <box top='234' left='57' width='163' height='231'>
+      <label>cback</label>
+    </box>
+    <box top='120' left='507' width='136' height='234'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_17.png'>
+    <box top='219' left='55' width='160' height='235'>
+      <label>cback</label>
+    </box>
+    <box top='131' left='503' width='135' height='227'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_18.png'>
+    <box top='201' left='70' width='154' height='222'>
+      <label>cback</label>
+    </box>
+    <box top='149' left='490' width='146' height='204'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_19.png'>
+    <box top='193' left='91' width='144' height='210'>
+      <label>cback</label>
+    </box>
+    <box top='162' left='479' width='150' height='196'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_1.png'>
+    <box top='159' left='131' width='143' height='205'>
+      <label>cback</label>
+    </box>
+    <box top='166' left='404' width='143' height='184'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_20.png'>
+    <box top='191' left='100' width='141' height='203'>
+      <label>cback</label>
+    </box>
+    <box top='167' left='477' width='145' height='202'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_21.png'>
+    <box top='186' left='103' width='140' height='206'>
+      <label>cback</label>
+    </box>
+    <box top='171' left='481' width='139' height='214'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_22.png'>
+    <box top='198' left='110' width='143' height='198'>
+      <label>cback</label>
+    </box>
+    <box top='174' left='490' width='127' height='209'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_23.png'>
+    <box top='199' left='117' width='139' height='190'>
+      <label>cback</label>
+    </box>
+    <box top='181' left='486' width='131' height='196'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_24.png'>
+    <box top='198' left='121' width='139' height='191'>
+      <label>cback</label>
+    </box>
+    <box top='188' left='484' width='135' height='196'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_25.png'>
+    <box top='203' left='119' width='146' height='186'>
+      <label>cback</label>
+    </box>
+    <box top='200' left='475' width='145' height='195'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_26.png'>
+    <box top='209' left='135' width='135' height='186'>
+      <label>cback</label>
+    </box>
+    <box top='206' left='465' width='156' height='195'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_27.png'>
+    <box top='215' left='145' width='133' height='180'>
+      <label>cback</label>
+    </box>
+    <box top='214' left='461' width='147' height='180'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_28.png'>
+    <box top='219' left='157' width='126' height='173'>
+      <label>cback</label>
+    </box>
+    <box top='215' left='452' width='128' height='184'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_29.png'>
+    <box top='228' left='176' width='119' height='175'>
+      <label>cback</label>
+    </box>
+    <box top='221' left='453' width='109' height='176'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_2.png'>
+    <box top='163' left='120' width='145' height='200'>
+      <label>cback</label>
+    </box>
+    <box top='168' left='404' width='150' height='190'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_30.png'>
+    <box top='230' left='170' width='114' height='159'>
+      <label>cback</label>
+    </box>
+    <box top='244' left='453' width='108' height='144' ignore='1'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_31.png'>
+    <box top='220' left='165' width='112' height='170'>
+      <label>cback</label>
+    </box>
+    <box top='222' left='477' width='87' height='188' ignore='1'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_32.png'>
+  </image>
+  <image file='card-double_33.png'>
+    <box top='209' left='170' width='104' height='192'>
+      <label>cback</label>
+    </box>
+    <box top='257' left='473' width='102' height='144'>
+      <label>cflip</label>
+    </box>
+  </image>
+  <image file='card-double_34.png'>
+    <box top='255' left='476' width='95' height='144'>
+      <label>cflip</label>
+    </box>
+    <box top='241' left='181' width='89' height='152'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_35.png'>
+    <box top='271' left='459' width='106' height='125'>
+      <label>cflip</label>
+    </box>
+  </image>
+  <image file='card-double_36.png'>
+    <box top='330' left='176' width='79' height='53'>
+      <label>cflip</label>
+    </box>
+    <box top='261' left='477' width='97' height='135'>
+      <label>cflip</label>
+    </box>
+  </image>
+  <image file='card-double_37.png'>
+    <box top='316' left='138' width='123' height='75'>
+      <label>cflip</label>
+    </box>
+    <box top='269' left='466' width='93' height='108'>
+      <label>cflip</label>
+    </box>
+  </image>
+  <image file='card-double_38.png'>
+    <box top='296' left='459' width='100' height='85'>
+      <label>cflip</label>
+    </box>
+    <box top='306' left='176' width='132' height='85'>
+      <label>cflip</label>
+    </box>
+  </image>
+  <image file='card-double_39.png'>
+  </image>
+  <image file='card-double_3.png'>
+    <box top='159' left='116' width='138' height='209'>
+      <label>cback</label>
+    </box>
+    <box top='171' left='415' width='148' height='185'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_40.png'>
+  </image>
+  <image file='card-double_41.png'>
+  </image>
+  <image file='card-double_42.png'>
+    <box top='236' left='103' width='189' height='150'>
+      <label>cfront</label>
+    </box>
+    <box top='245' left='458' width='193' height='160'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_43.png'>
+    <box top='223' left='110' width='144' height='166'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_44.png'>
+    <box top='221' left='119' width='143' height='176'>
+      <label>cfront</label>
+    </box>
+    <box top='192' left='502' width='139' height='188'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_45.png'>
+    <box top='213' left='130' width='135' height='179'>
+      <label>cfront</label>
+    </box>
+    <box top='194' left='503' width='145' height='188'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_46.png'>
+    <box top='210' left='128' width='132' height='179'>
+      <label>cfront</label>
+    </box>
+    <box top='212' left='518' width='124' height='166'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_47.png'>
+    <box top='207' left='127' width='133' height='166'>
+      <label>cfront</label>
+    </box>
+    <box top='218' left='504' width='134' height='171'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_48.png'>
+    <box top='205' left='140' width='114' height='162'>
+      <label>cfront</label>
+    </box>
+    <box top='218' left='491' width='151' height='167'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_49.png'>
+    <box top='201' left='132' width='130' height='164'>
+      <label>cfront</label>
+    </box>
+    <box top='210' left='489' width='151' height='184'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_4.png'>
+    <box top='166' left='110' width='143' height='216'>
+      <label>cback</label>
+    </box>
+    <box top='192' left='418' width='154' height='184'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_50.png'>
+    <box top='213' left='484' width='151' height='159'>
+      <label>cfront</label>
+    </box>
+    <box top='200' left='143' width='129' height='169'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_51.png'>
+    <box top='199' left='152' width='126' height='161'>
+      <label>cfront</label>
+    </box>
+    <box top='214' left='487' width='144' height='189'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_52.png'>
+    <box top='212' left='492' width='146' height='174'>
+      <label>cfront</label>
+    </box>
+    <box top='189' left='164' width='124' height='174'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_53.png'>
+    <box top='190' left='166' width='132' height='167'>
+      <label>cfront</label>
+    </box>
+    <box top='209' left='508' width='130' height='180'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_54.png'>
+    <box top='188' left='190' width='120' height='161'>
+      <label>cfront</label>
+    </box>
+    <box top='209' left='524' width='114' height='167'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_55.png'>
+    <box top='188' left='204' width='119' height='157'>
+      <label>cfront</label>
+    </box>
+    <box top='210' left='545' width='95' height='147'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_56.png'>
+    <box top='184' left='216' width='123' height='161'>
+      <label>cfront</label>
+    </box>
+    <box top='208' left='557' width='85' height='160'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_57.png'>
+    <box top='206' left='572' width='86' height='167'>
+      <label>cfront</label>
+    </box>
+    <box top='185' left='230' width='125' height='150'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_58.png'>
+    <box top='181' left='242' width='121' height='167'>
+      <label>cfront</label>
+    </box>
+    <box top='206' left='582' width='75' height='164'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_59.png'>
+    <box top='183' left='253' width='121' height='166'>
+      <label>cfront</label>
+    </box>
+    <box top='203' left='583' width='80' height='172'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_5.png'>
+    <box top='168' left='103' width='145' height='219'>
+      <label>cback</label>
+    </box>
+    <box top='197' left='412' width='156' height='183'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_60.png'>
+    <box top='181' left='252' width='126' height='170'>
+      <label>cfront</label>
+    </box>
+    <box top='204' left='584' width='100' height='169'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_61.png'>
+    <box top='178' left='253' width='120' height='172'>
+      <label>cfront</label>
+    </box>
+    <box top='203' left='579' width='101' height='167'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_62.png'>
+    <box top='205' left='573' width='104' height='168'>
+      <label>cfront</label>
+    </box>
+    <box top='181' left='244' width='122' height='161'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_63.png'>
+    <box top='183' left='233' width='119' height='153'>
+      <label>cfront</label>
+    </box>
+    <box top='204' left='568' width='103' height='169'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_64.png'>
+    <box top='179' left='219' width='121' height='166'>
+      <label>cfront</label>
+    </box>
+    <box top='209' left='557' width='101' height='144'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_65.png'>
+    <box top='185' left='203' width='118' height='157'>
+      <label>cfront</label>
+    </box>
+    <box top='212' left='542' width='109' height='145'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_66.png'>
+    <box top='211' left='527' width='116' height='163'>
+      <label>cfront</label>
+    </box>
+    <box top='190' left='196' width='114' height='154'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_67.png'>
+    <box top='185' left='181' width='116' height='164'>
+      <label>cfront</label>
+    </box>
+    <box top='213' left='510' width='119' height='156'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_68.png'>
+    <box top='183' left='168' width='116' height='166'>
+      <label>cfront</label>
+    </box>
+    <box top='215' left='493' width='131' height='153'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_69.png'>
+    <box top='185' left='163' width='109' height='156'>
+      <label>cfront</label>
+    </box>
+    <box top='216' left='487' width='125' height='155'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_6.png'>
+    <box top='165' left='96' width='148' height='220'>
+      <label>cback</label>
+    </box>
+    <box top='195' left='425' width='115' height='182'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_70.png'>
+    <box top='186' left='150' width='112' height='158'>
+      <label>cfront</label>
+    </box>
+    <box top='214' left='471' width='116' height='159'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_71.png'>
+    <box top='187' left='139' width='111' height='155'>
+      <label>cfront</label>
+    </box>
+    <box top='215' left='454' width='126' height='161'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_72.png'>
+    <box top='188' left='131' width='113' height='168'>
+      <label>cfront</label>
+    </box>
+    <box top='215' left='436' width='121' height='157'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_73.png'>
+    <box top='188' left='125' width='107' height='160'>
+      <label>cfront</label>
+    </box>
+    <box top='218' left='421' width='118' height='160'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_74.png'>
+    <box top='217' left='413' width='122' height='170'>
+      <label>cfront</label>
+    </box>
+    <box top='187' left='116' width='105' height='165'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_75.png'>
+    <box top='187' left='112' width='105' height='167'>
+      <label>cfront</label>
+    </box>
+    <box top='221' left='411' width='126' height='168'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_76.png'>
+    <box top='214' left='415' width='125' height='173'>
+      <label>cfront</label>
+    </box>
+    <box top='187' left='111' width='100' height='161'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_77.png'>
+    <box top='186' left='98' width='105' height='171'>
+      <label>cfront</label>
+    </box>
+    <box top='216' left='414' width='123' height='167'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_78.png'>
+    <box top='187' left='93' width='106' height='164'>
+      <label>cfront</label>
+    </box>
+    <box top='216' left='407' width='122' height='165'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_79.png'>
+    <box top='189' left='88' width='102' height='159'>
+      <label>cfront</label>
+    </box>
+    <box top='214' left='393' width='122' height='167'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_7.png'>
+    <box top='164' left='92' width='147' height='222'>
+      <label>cback</label>
+    </box>
+    <box top='197' left='425' width='109' height='185'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_80.png'>
+    <box top='188' left='81' width='100' height='165'>
+      <label>cfront</label>
+    </box>
+    <box top='218' left='372' width='120' height='157'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_81.png'>
+    <box top='189' left='72' width='102' height='166'>
+      <label>cfront</label>
+    </box>
+    <box top='222' left='352' width='120' height='155'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_82.png'>
+    <box top='190' left='59' width='107' height='163'>
+      <label>cfront</label>
+    </box>
+    <box top='229' left='335' width='118' height='161'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_83.png'>
+    <box top='192' left='48' width='112' height='171'>
+      <label>cfront</label>
+    </box>
+    <box top='232' left='319' width='123' height='159'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_84.png'>
+    <box top='196' left='50' width='113' height='164'>
+      <label>cfront</label>
+    </box>
+    <box top='235' left='309' width='122' height='165'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_85.png'>
+    <box top='196' left='52' width='110' height='171'>
+      <label>cfront</label>
+    </box>
+    <box top='244' left='302' width='125' height='169'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_86.png'>
+    <box top='194' left='47' width='109' height='163'>
+      <label>cfront</label>
+    </box>
+    <box top='243' left='301' width='122' height='168'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_87.png'>
+    <box top='193' left='42' width='112' height='169'>
+      <label>cfront</label>
+    </box>
+    <box top='243' left='298' width='127' height='171'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_88.png'>
+    <box top='202' left='40' width='112' height='168'>
+      <label>cfront</label>
+    </box>
+    <box top='244' left='296' width='131' height='169'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_89.png'>
+    <box top='251' left='305' width='122' height='171'>
+      <label>cfront</label>
+    </box>
+    <box top='213' left='46' width='107' height='173'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_8.png'>
+    <box top='165' left='81' width='150' height='226'>
+      <label>cback</label>
+    </box>
+    <box top='196' left='439' width='118' height='232' ignore='1'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-double_90.png'>
+    <box top='221' left='47' width='105' height='162'>
+      <label>cfront</label>
+    </box>
+    <box top='253' left='301' width='125' height='165'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_91.png'>
+    <box top='250' left='311' width='116' height='152'>
+      <label>cfront</label>
+    </box>
+    <box top='226' left='61' width='105' height='145' ignore='1'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_92.png'>
+    <box top='248' left='310' width='109' height='151'>
+      <label>cfront</label>
+    </box>
+    <box top='230' left='87' width='92' height='137' ignore='1'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_93.png'>
+    <box top='232' left='96' width='89' height='140' ignore='1'>
+      <label>cfront</label>
+    </box>
+    <box top='249' left='309' width='101' height='140'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_94.png'>
+    <box top='238' left='104' width='88' height='136'>
+      <label>cfront</label>
+    </box>
+    <box top='254' left='306' width='97' height='131'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_95.png'>
+    <box top='237' left='114' width='84' height='122'>
+      <label>cfront</label>
+    </box>
+    <box top='256' left='306' width='90' height='131'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_96.png'>
+    <box top='258' left='304' width='89' height='118'>
+      <label>cfront</label>
+    </box>
+    <box top='242' left='117' width='86' height='115'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_97.png'>
+    <box top='243' left='121' width='83' height='117'>
+      <label>cfront</label>
+    </box>
+    <box top='259' left='302' width='88' height='120'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_98.png'>
+    <box top='241' left='123' width='83' height='121'>
+      <label>cfront</label>
+    </box>
+    <box top='260' left='300' width='89' height='112'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_99.png'>
+    <box top='243' left='131' width='84' height='109'>
+      <label>cfront</label>
+    </box>
+    <box top='261' left='304' width='86' height='111'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-double_9.png'>
+    <box top='164' left='74' width='154' height='232'>
+      <label>cback</label>
+    </box>
+    <box top='192' left='453' width='144' height='230'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-hand_0.png'>
+    <box top='245' left='313' width='150' height='119'>
+      <label>cback-hand</label>
+    </box>
+    <box top='232' left='289' width='100' height='114'>
+      <label>cback-hand</label>
+    </box>
+    <box top='231' left='286' width='57' height='110' ignore='1'>
+      <label>cback-hand</label>
+    </box>
+    <box top='236' left='264' width='71' height='138'>
+      <label>cback-hand</label>
+    </box>
+    <box top='241' left='240' width='46' height='141'>
+      <label>cback-hand</label>
+    </box>
+    <box top='250' left='208' width='62' height='124'>
+      <label>cback-hand</label>
+    </box>
+    <box top='268' left='182' width='101' height='136'>
+      <label>cback-hand</label>
+    </box>
+    <box top='289' left='151' width='114' height='130'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-hand_10.png'>
+    <box top='246' left='289' width='156' height='119'>
+      <label>cback-hand</label>
+    </box>
+    <box top='230' left='267' width='92' height='115'>
+      <label>cback-hand</label>
+    </box>
+    <box top='230' left='261' width='56' height='107'>
+      <label>cback-hand</label>
+    </box>
+    <box top='234' left='234' width='74' height='129'>
+      <label>cback-hand</label>
+    </box>
+    <box top='242' left='207' width='30' height='107'>
+      <label>cback-hand</label>
+    </box>
+    <box top='254' left='176' width='35' height='84'>
+      <label>cback-hand</label>
+    </box>
+    <box top='274' left='149' width='55' height='76'>
+      <label>cback-hand</label>
+    </box>
+    <box top='292' left='123' width='52' height='76'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-hand_11.png'>
+    <box top='244' left='285' width='159' height='122'>
+      <label>cback-hand</label>
+    </box>
+    <box top='227' left='258' width='105' height='121'>
+      <label>cback-hand</label>
+    </box>
+    <box top='235' left='237' width='63' height='121'>
+      <label>cback-hand</label>
+    </box>
+    <box top='242' left='206' width='39' height='110'>
+      <label>cback-hand</label>
+    </box>
+    <box top='252' left='176' width='39' height='87'>
+      <label>cback-hand</label>
+    </box>
+    <box top='272' left='150' width='56' height='79'>
+      <label>cback-hand</label>
+    </box>
+    <box top='291' left='122' width='61' height='74'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-hand_12.png'>
+    <box top='242' left='285' width='158' height='123'>
+      <label>cback-hand</label>
+    </box>
+    <box top='227' left='262' width='99' height='115'>
+      <label>cback-hand</label>
+    </box>
+    <box top='227' left='256' width='62' height='114' ignore='1'>
+      <label>cback-hand</label>
+    </box>
+    <box top='232' left='234' width='71' height='123'>
+      <label>cback-hand</label>
+    </box>
+    <box top='239' left='205' width='36' height='107'>
+      <label>cback-hand</label>
+    </box>
+    <box top='252' left='174' width='38' height='87'>
+      <label>cback-hand</label>
+    </box>
+    <box top='270' left='147' width='50' height='81'>
+      <label>cback-hand</label>
+    </box>
+    <box top='289' left='116' width='59' height='80'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-hand_13.png'>
+    <box top='242' left='284' width='156' height='121'>
+      <label>cback-hand</label>
+    </box>
+    <box top='226' left='261' width='100' height='115'>
+      <label>cback-hand</label>
+    </box>
+    <box top='228' left='256' width='62' height='107' ignore='1'>
+      <label>cback-hand</label>
+    </box>
+    <box top='235' left='229' width='69' height='122'>
+      <label>cback-hand</label>
+    </box>
+    <box top='238' left='204' width='32' height='113'>
+      <label>cback-hand</label>
+    </box>
+    <box top='252' left='173' width='35' height='85'>
+      <label>cback-hand</label>
+    </box>
+    <box top='271' left='145' width='56' height='80'>
+      <label>cback-hand</label>
+    </box>
+    <box top='287' left='113' width='63' height='81'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-hand_14.png'>
+    <box top='239' left='278' width='159' height='127'>
+      <label>cback-hand</label>
+    </box>
+    <box top='225' left='256' width='99' height='113'>
+      <label>cback-hand</label>
+    </box>
+    <box top='226' left='254' width='57' height='108' ignore='1'>
+      <label>cback-hand</label>
+    </box>
+    <box top='231' left='224' width='69' height='126'>
+      <label>cback-hand</label>
+    </box>
+    <box top='237' left='198' width='34' height='112'>
+      <label>cback-hand</label>
+    </box>
+    <box top='251' left='167' width='39' height='94'>
+      <label>cback-hand</label>
+    </box>
+    <box top='270' left='144' width='50' height='81'>
+      <label>cback-hand</label>
+    </box>
+    <box top='285' left='116' width='59' height='83'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-hand_15.png'>
+    <box top='240' left='276' width='158' height='124'>
+      <label>cback-hand</label>
+    </box>
+    <box top='224' left='250' width='98' height='120'>
+      <label>cback-hand</label>
+    </box>
+    <box top='230' left='222' width='73' height='124'>
+      <label>cback-hand</label>
+    </box>
+    <box top='240' left='193' width='32' height='109'>
+      <label>cback-hand</label>
+    </box>
+    <box top='251' left='164' width='35' height='100'>
+      <label>cback-hand</label>
+    </box>
+    <box top='268' left='139' width='54' height='86'>
+      <label>cback-hand</label>
+    </box>
+    <box top='285' left='110' width='67' height='86'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-hand_16.png'>
+    <box top='241' left='273' width='161' height='125'>
+      <label>cback-hand</label>
+    </box>
+    <box top='225' left='248' width='97' height='120'>
+      <label>cback-hand</label>
+    </box>
+    <box top='229' left='219' width='71' height='126'>
+      <label>cback-hand</label>
+    </box>
+    <box top='236' left='195' width='44' height='117'>
+      <label>cback-hand</label>
+    </box>
+    <box top='250' left='163' width='41' height='95'>
+      <label>cback-hand</label>
+    </box>
+    <box top='269' left='139' width='54' height='86'>
+      <label>cback-hand</label>
+    </box>
+    <box top='281' left='110' width='70' height='94'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-hand_17.png'>
+  </image>
+  <image file='card-hand_18.png'>
+    <box top='242' left='278' width='159' height='125'>
+      <label>cback-hand</label>
+    </box>
+    <box top='225' left='251' width='101' height='121'>
+      <label>cback-hand</label>
+    </box>
+    <box top='231' left='225' width='68' height='128'>
+      <label>cback-hand</label>
+    </box>
+    <box top='237' left='194' width='36' height='119'>
+      <label>cback-hand</label>
+    </box>
+    <box top='250' left='162' width='47' height='98'>
+      <label>cback-hand</label>
+    </box>
+    <box top='269' left='140' width='52' height='90'>
+      <label>cback-hand</label>
+    </box>
+    <box top='287' left='112' width='73' height='88'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-hand_19.png'>
+    <box top='243' left='277' width='160' height='126'>
+      <label>cback-hand</label>
+    </box>
+    <box top='225' left='251' width='99' height='120'>
+      <label>cback-hand</label>
+    </box>
+    <box top='229' left='223' width='70' height='131'>
+      <label>cback-hand</label>
+    </box>
+    <box top='237' left='193' width='34' height='123'>
+      <label>cback-hand</label>
+    </box>
+    <box top='251' left='164' width='46' height='98'>
+      <label>cback-hand</label>
+    </box>
+    <box top='272' left='141' width='51' height='87'>
+      <label>cback-hand</label>
+    </box>
+    <box top='288' left='113' width='70' height='84'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-hand_1.png'>
+    <box top='248' left='321' width='145' height='120'>
+      <label>cback-hand</label>
+    </box>
+    <box top='233' left='297' width='89' height='99'>
+      <label>cback-hand</label>
+    </box>
+    <box top='236' left='267' width='63' height='123'>
+      <label>cback-hand</label>
+    </box>
+    <box top='241' left='239' width='68' height='129'>
+      <label>cback-hand</label>
+    </box>
+    <box top='250' left='207' width='82' height='119'>
+      <label>cback-hand</label>
+    </box>
+    <box top='269' left='181' width='102' height='131'>
+      <label>cback-hand</label>
+    </box>
+    <box top='292' left='150' width='110' height='129'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-hand_20.png'>
+    <box top='242' left='278' width='158' height='127'>
+      <label>cback-hand</label>
+    </box>
+    <box top='226' left='251' width='105' height='118'>
+      <label>cback-hand</label>
+    </box>
+    <box top='231' left='222' width='72' height='129'>
+      <label>cback-hand</label>
+    </box>
+    <box top='237' left='195' width='30' height='114'>
+      <label>cback-hand</label>
+    </box>
+    <box top='251' left='163' width='37' height='99'>
+      <label>cback-hand</label>
+    </box>
+    <box top='267' left='142' width='51' height='91'>
+      <label>cback-hand</label>
+    </box>
+    <box top='285' left='112' width='63' height='92'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-hand_21.png'>
+    <box top='242' left='280' width='162' height='131'>
+      <label>cback-hand</label>
+    </box>
+    <box top='225' left='255' width='101' height='115'>
+      <label>cback-hand</label>
+    </box>
+    <box top='232' left='227' width='68' height='119'>
+      <label>cback-hand</label>
+    </box>
+    <box top='236' left='198' width='32' height='117'>
+      <label>cback-hand</label>
+    </box>
+    <box top='251' left='164' width='43' height='102'>
+      <label>cback-hand</label>
+    </box>
+    <box top='274' left='143' width='51' height='86'>
+      <label>cback-hand</label>
+    </box>
+    <box top='290' left='116' width='67' height='91'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-hand_22.png'>
+    <box top='244' left='286' width='162' height='129'>
+      <label>cback-hand</label>
+    </box>
+    <box top='229' left='256' width='107' height='115'>
+      <label>cback-hand</label>
+    </box>
+    <box top='233' left='230' width='63' height='123'>
+      <label>cback-hand</label>
+    </box>
+    <box top='240' left='206' width='28' height='114'>
+      <label>cback-hand</label>
+    </box>
+    <box top='253' left='172' width='48' height='99'>
+      <label>cback-hand</label>
+    </box>
+    <box top='275' left='154' width='51' height='80'>
+      <label>cback-hand</label>
+    </box>
+    <box top='289' left='123' width='64' height='89'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-hand_23.png'>
+    <box top='243' left='293' width='161' height='130'>
+      <label>cback-hand</label>
+    </box>
+    <box top='226' left='267' width='97' height='116'>
+      <label>cback-hand</label>
+    </box>
+    <box top='233' left='238' width='65' height='129'>
+      <label>cback-hand</label>
+    </box>
+    <box top='241' left='208' width='35' height='108'>
+      <label>cback-hand</label>
+    </box>
+    <box top='251' left='177' width='36' height='100'>
+      <label>cback-hand</label>
+    </box>
+    <box top='271' left='156' width='55' height='86'>
+      <label>cback-hand</label>
+    </box>
+    <box top='286' left='127' width='64' height='90'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-hand_24.png'>
+    <box top='246' left='292' width='167' height='125'>
+      <label>cback-hand</label>
+    </box>
+    <box top='228' left='271' width='102' height='117'>
+      <label>cback-hand</label>
+    </box>
+    <box top='232' left='241' width='71' height='130'>
+      <label>cback-hand</label>
+    </box>
+    <box top='242' left='211' width='40' height='109'>
+      <label>cback-hand</label>
+    </box>
+    <box top='251' left='182' width='46' height='102'>
+      <label>cback-hand</label>
+    </box>
+    <box top='271' left='160' width='55' height='83'>
+      <label>cback-hand</label>
+    </box>
+    <box top='288' left='131' width='68' height='88'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-hand_25.png'>
+  </image>
+  <image file='card-hand_26.png'>
+  </image>
+  <image file='card-hand_27.png'>
+  </image>
+  <image file='card-hand_28.png'>
+  </image>
+  <image file='card-hand_29.png'>
+  </image>
+  <image file='card-hand_2.png'>
+  </image>
+  <image file='card-hand_30.png'>
+  </image>
+  <image file='card-hand_31.png'>
+  </image>
+  <image file='card-hand_32.png'>
+  </image>
+  <image file='card-hand_33.png'>
+  </image>
+  <image file='card-hand_34.png'>
+  </image>
+  <image file='card-hand_35.png'>
+  </image>
+  <image file='card-hand_36.png'>
+  </image>
+  <image file='card-hand_37.png'>
+  </image>
+  <image file='card-hand_38.png'>
+  </image>
+  <image file='card-hand_39.png'>
+  </image>
+  <image file='card-hand_3.png'>
+  </image>
+  <image file='card-hand_40.png'>
+  </image>
+  <image file='card-hand_41.png'>
+  </image>
+  <image file='card-hand_42.png'>
+  </image>
+  <image file='card-hand_43.png'>
+  </image>
+  <image file='card-hand_44.png'>
+  </image>
+  <image file='card-hand_45.png'>
+  </image>
+  <image file='card-hand_46.png'>
+  </image>
+  <image file='card-hand_47.png'>
+  </image>
+  <image file='card-hand_48.png'>
+  </image>
+  <image file='card-hand_49.png'>
+  </image>
+  <image file='card-hand_4.png'>
+  </image>
+  <image file='card-hand_50.png'>
+  </image>
+  <image file='card-hand_51.png'>
+  </image>
+  <image file='card-hand_52.png'>
+  </image>
+  <image file='card-hand_53.png'>
+  </image>
+  <image file='card-hand_54.png'>
+  </image>
+  <image file='card-hand_55.png'>
+  </image>
+  <image file='card-hand_56.png'>
+  </image>
+  <image file='card-hand_57.png'>
+  </image>
+  <image file='card-hand_58.png'>
+  </image>
+  <image file='card-hand_59.png'>
+  </image>
+  <image file='card-hand_5.png'>
+  </image>
+  <image file='card-hand_60.png'>
+  </image>
+  <image file='card-hand_61.png'>
+  </image>
+  <image file='card-hand_62.png'>
+  </image>
+  <image file='card-hand_63.png'>
+  </image>
+  <image file='card-hand_64.png'>
+  </image>
+  <image file='card-hand_65.png'>
+  </image>
+  <image file='card-hand_66.png'>
+  </image>
+  <image file='card-hand_67.png'>
+  </image>
+  <image file='card-hand_68.png'>
+  </image>
+  <image file='card-hand_69.png'>
+  </image>
+  <image file='card-hand_6.png'>
+  </image>
+  <image file='card-hand_70.png'>
+  </image>
+  <image file='card-hand_71.png'>
+  </image>
+  <image file='card-hand_72.png'>
+  </image>
+  <image file='card-hand_73.png'>
+  </image>
+  <image file='card-hand_74.png'>
+  </image>
+  <image file='card-hand_75.png'>
+    <box top='246' left='372' width='159' height='134'>
+      <label>cback-hand</label>
+    </box>
+    <box top='224' left='345' width='104' height='123'>
+      <label>cback-hand</label>
+    </box>
+    <box top='224' left='339' width='70' height='124'>
+      <label>cback-hand</label>
+    </box>
+    <box top='228' left='313' width='92' height='146'>
+      <label>cback-hand</label>
+    </box>
+    <box top='234' left='290' width='66' height='151'>
+      <label>cback-hand</label>
+    </box>
+    <box top='230' left='251' width='95' height='164'>
+      <label>cback-hand</label>
+    </box>
+    <box top='249' left='225' width='68' height='159'>
+      <label>cback-hand</label>
+    </box>
+    <box top='279' left='198' width='76' height='140'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-hand_76.png'>
+  </image>
+  <image file='card-hand_77.png'>
+  </image>
+  <image file='card-hand_78.png'>
+  </image>
+  <image file='card-hand_79.png'>
+  </image>
+  <image file='card-hand_7.png'>
+  </image>
+  <image file='card-hand_80.png'>
+  </image>
+  <image file='card-hand_81.png'>
+  </image>
+  <image file='card-hand_82.png'>
+  </image>
+  <image file='card-hand_83.png'>
+  </image>
+  <image file='card-hand_84.png'>
+  </image>
+  <image file='card-hand_85.png'>
+  </image>
+  <image file='card-hand_86.png'>
+  </image>
+  <image file='card-hand_87.png'>
+    <box top='252' left='430' width='164' height='129'>
+      <label>cback-hand</label>
+    </box>
+    <box top='231' left='405' width='108' height='128'>
+      <label>cback-hand</label>
+    </box>
+    <box top='231' left='375' width='78' height='146'>
+      <label>cback-hand</label>
+    </box>
+    <box top='225' left='351' width='62' height='161'>
+      <label>cback-hand</label>
+    </box>
+    <box top='239' left='318' width='40' height='138'>
+      <label>cback-hand</label>
+    </box>
+    <box top='255' left='280' width='70' height='136'>
+      <label>cback-hand</label>
+    </box>
+    <box top='269' left='246' width='131' height='162'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-hand_88.png'>
+    <box top='253' left='435' width='163' height='126'>
+      <label>cback-hand</label>
+    </box>
+    <box top='233' left='402' width='116' height='125'>
+      <label>cback-hand</label>
+    </box>
+    <box top='230' left='378' width='89' height='144'>
+      <label>cback-hand</label>
+    </box>
+    <box top='241' left='349' width='58' height='147'>
+      <label>cback-hand</label>
+    </box>
+    <box top='253' left='319' width='91' height='139'>
+      <label>cback-hand</label>
+    </box>
+    <box top='259' left='285' width='113' height='152'>
+      <label>cback-hand</label>
+    </box>
+    <box top='268' left='250' width='127' height='162'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-hand_89.png'>
+    <box top='253' left='434' width='160' height='129'>
+      <label>cback-hand</label>
+    </box>
+    <box top='230' left='404' width='105' height='125'>
+      <label>cback-hand</label>
+    </box>
+    <box top='231' left='374' width='79' height='140'>
+      <label>cback-hand</label>
+    </box>
+    <box top='223' left='354' width='61' height='158'>
+      <label>cback-hand</label>
+    </box>
+    <box top='273' left='247' width='106' height='156'>
+      <label>cback-hand</label>
+    </box>
+    <box top='256' left='282' width='76' height='139'>
+      <label>cback-hand</label>
+    </box>
+    <box top='236' left='312' width='43' height='140'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-hand_8.png'>
+  </image>
+  <image file='card-hand_90.png'>
+  </image>
+  <image file='card-hand_91.png'>
+  </image>
+  <image file='card-hand_92.png'>
+  </image>
+  <image file='card-hand_93.png'>
+  </image>
+  <image file='card-hand_94.png'>
+    <box top='254' left='387' width='158' height='127'>
+      <label>cback-hand</label>
+    </box>
+    <box top='230' left='359' width='102' height='114'>
+      <label>cback-hand</label>
+    </box>
+    <box top='278' left='203' width='120' height='147'>
+      <label>cback-hand</label>
+    </box>
+    <box top='257' left='236' width='111' height='144'>
+      <label>cback-hand</label>
+    </box>
+    <box top='248' left='272' width='36' height='133'>
+      <label>cback-hand</label>
+    </box>
+    <box top='235' left='303' width='36' height='142'>
+      <label>cback-hand</label>
+    </box>
+    <box top='231' left='333' width='69' height='114'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-hand_95.png'>
+    <box top='256' left='377' width='161' height='126'>
+      <label>cback-hand</label>
+    </box>
+    <box top='233' left='348' width='110' height='117'>
+      <label>cback-hand</label>
+    </box>
+    <box top='228' left='351' width='63' height='115'>
+      <label>cback-hand</label>
+    </box>
+    <box top='231' left='325' width='70' height='141'>
+      <label>cback-hand</label>
+    </box>
+    <box top='240' left='296' width='81' height='142'>
+      <label>cback-hand</label>
+    </box>
+    <box top='245' left='259' width='123' height='135'>
+      <label>cback-hand</label>
+    </box>
+    <box top='263' left='229' width='111' height='146'>
+      <label>cback-hand</label>
+    </box>
+    <box top='279' left='196' width='147' height='150'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-hand_96.png'>
+    <box top='257' left='375' width='160' height='127'>
+      <label>cback-hand</label>
+    </box>
+    <box top='232' left='342' width='119' height='122'>
+      <label>cback-hand</label>
+    </box>
+    <box top='235' left='319' width='76' height='148'>
+      <label>cback-hand</label>
+    </box>
+    <box top='229' left='293' width='62' height='163'>
+      <label>cback-hand</label>
+    </box>
+    <box top='246' left='258' width='43' height='138'>
+      <label>cback-hand</label>
+    </box>
+    <box top='260' left='230' width='91' height='148'>
+      <label>cback-hand</label>
+    </box>
+    <box top='278' left='194' width='99' height='149'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-hand_97.png'>
+    <box top='262' left='372' width='155' height='115'>
+      <label>cback-hand</label>
+    </box>
+    <box top='234' left='350' width='101' height='113'>
+      <label>cback-hand</label>
+    </box>
+    <box top='234' left='346' width='57' height='105'>
+      <label>cback-hand</label>
+    </box>
+    <box top='237' left='317' width='75' height='133'>
+      <label>cback-hand</label>
+    </box>
+    <box top='242' left='296' width='60' height='143'>
+      <label>cback-hand</label>
+    </box>
+    <box top='246' left='260' width='41' height='130'>
+      <label>cback-hand</label>
+    </box>
+    <box top='261' left='231' width='106' height='145'>
+      <label>cback-hand</label>
+    </box>
+    <box top='279' left='201' width='96' height='147'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-hand_98.png'>
+    <box top='258' left='368' width='153' height='118'>
+      <label>cback-hand</label>
+    </box>
+    <box top='278' left='197' width='93' height='146'>
+      <label>cback-hand</label>
+    </box>
+    <box top='260' left='228' width='63' height='135'>
+      <label>cback-hand</label>
+    </box>
+    <box top='247' left='257' width='44' height='136'>
+      <label>cback-hand</label>
+    </box>
+    <box top='230' left='292' width='63' height='137'>
+      <label>cback-hand</label>
+    </box>
+    <box top='239' left='316' width='56' height='106'>
+      <label>cback-hand</label>
+    </box>
+    <box top='237' left='355' width='87' height='108'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-hand_99.png'>
+    <box top='262' left='361' width='147' height='115'>
+      <label>cback-hand</label>
+    </box>
+    <box top='241' left='333' width='108' height='113'>
+      <label>cback-hand</label>
+    </box>
+    <box top='243' left='335' width='64' height='101'>
+      <label>cback-hand</label>
+    </box>
+    <box top='243' left='307' width='76' height='133'>
+      <label>cback-hand</label>
+    </box>
+    <box top='247' left='291' width='42' height='143'>
+      <label>cback-hand</label>
+    </box>
+    <box top='251' left='252' width='41' height='126'>
+      <label>cback-hand</label>
+    </box>
+    <box top='268' left='228' width='63' height='125'>
+      <label>cback-hand</label>
+    </box>
+    <box top='283' left='196' width='109' height='136'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-hand_9.png'>
+    <box top='249' left='290' width='155' height='121'>
+      <label>cback-hand</label>
+    </box>
+    <box top='300' left='118' width='72' height='73'>
+      <label>cback-hand</label>
+    </box>
+    <box top='273' left='147' width='53' height='81'>
+      <label>cback-hand</label>
+    </box>
+    <box top='253' left='176' width='45' height='93'>
+      <label>cback-hand</label>
+    </box>
+    <box top='237' left='204' width='39' height='106'>
+      <label>cback-hand</label>
+    </box>
+    <box top='236' left='237' width='72' height='108'>
+      <label>cback-hand</label>
+    </box>
+    <box top='231' left='271' width='101' height='101'>
+      <label>cback-hand</label>
+    </box>
+    <box top='232' left='265' width='58' height='106'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_0.png'>
+    <box top='326' left='311' width='84' height='110'>
+      <label>cback-hand</label>
+    </box>
+    <box top='328' left='265' width='64' height='88'>
+      <label>cback-hand</label>
+    </box>
+    <box top='331' left='213' width='71' height='99'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_10.png'>
+    <box top='321' left='307' width='88' height='88'>
+      <label>cback-hand</label>
+    </box>
+    <box top='317' left='281' width='61' height='75'>
+      <label>cback-hand</label>
+    </box>
+    <box top='328' left='235' width='56' height='76'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_11.png'>
+    <box top='316' left='307' width='85' height='90'>
+      <label>cback-hand</label>
+    </box>
+    <box top='319' left='278' width='51' height='67'>
+      <label>cback-hand</label>
+    </box>
+    <box top='323' left='234' width='54' height='80'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_12.png'>
+    <box top='315' left='302' width='90' height='87'>
+      <label>cback-hand</label>
+    </box>
+    <box top='312' left='275' width='53' height='68'>
+      <label>cback-hand</label>
+    </box>
+    <box top='323' left='232' width='57' height='77'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_13.png'>
+    <box top='309' left='303' width='87' height='90'>
+      <label>cback-hand</label>
+    </box>
+    <box top='308' left='276' width='57' height='71'>
+      <label>cback-hand</label>
+    </box>
+    <box top='320' left='229' width='57' height='77'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_14.png'>
+    <box top='313' left='301' width='88' height='86'>
+      <label>cback-hand</label>
+    </box>
+    <box top='307' left='272' width='62' height='81'>
+      <label>cback-hand</label>
+    </box>
+    <box top='320' left='227' width='57' height='77'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_15.png'>
+    <box top='311' left='297' width='90' height='86'>
+      <label>cback-hand</label>
+    </box>
+    <box top='305' left='270' width='61' height='77'>
+      <label>cback-hand</label>
+    </box>
+    <box top='321' left='226' width='60' height='75'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_16.png'>
+  </image>
+  <image file='card-simpleflush_17.png'>
+  </image>
+  <image file='card-simpleflush_18.png'>
+  </image>
+  <image file='card-simpleflush_19.png'>
+  </image>
+  <image file='card-simpleflush_1.png'>
+  </image>
+  <image file='card-simpleflush_20.png'>
+  </image>
+  <image file='card-simpleflush2_0.png'>
+  </image>
+  <image file='card-simpleflush2_10.png'>
+    <box top='308' left='252' width='68' height='94'>
+      <label>cback-hand</label>
+    </box>
+    <box top='313' left='320' width='62' height='99'>
+      <label>cback-hand</label>
+    </box>
+    <box top='324' left='346' width='101' height='90'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_11.png'>
+    <box top='306' left='246' width='73' height='94'>
+      <label>cback-hand</label>
+    </box>
+    <box top='310' left='319' width='63' height='105'>
+      <label>cback-hand</label>
+    </box>
+    <box top='320' left='355' width='94' height='93'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_12.png'>
+    <box top='309' left='252' width='67' height='94'>
+      <label>cback-hand</label>
+    </box>
+    <box top='311' left='318' width='66' height='101'>
+      <label>cback-hand</label>
+    </box>
+    <box top='318' left='352' width='99' height='93'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_13.png'>
+    <box top='310' left='314' width='70' height='98'>
+      <label>cback-hand</label>
+    </box>
+    <box top='308' left='249' width='68' height='95'>
+      <label>cback-hand</label>
+    </box>
+    <box top='318' left='355' width='99' height='88'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_14.png'>
+  </image>
+  <image file='card-simpleflush2_15.png'>
+  </image>
+  <image file='card-simpleflush2_16.png'>
+  </image>
+  <image file='card-simpleflush2_17.png'>
+    <box top='324' left='359' width='98' height='89'>
+      <label>cback-hand</label>
+    </box>
+    <box top='309' left='313' width='72' height='109'>
+      <label>cback-hand</label>
+    </box>
+    <box top='309' left='244' width='71' height='96'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_18.png'>
+    <box top='325' left='360' width='93' height='93'>
+      <label>cback-hand</label>
+    </box>
+    <box top='310' left='312' width='73' height='112'>
+      <label>cback-hand</label>
+    </box>
+    <box top='309' left='239' width='76' height='93'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_19.png'>
+    <box top='314' left='248' width='71' height='90'>
+      <label>cback-hand</label>
+    </box>
+    <box top='315' left='319' width='68' height='107'>
+      <label>cback-hand</label>
+    </box>
+    <box top='324' left='366' width='93' height='88'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_21.png'>
+    <box top='302' left='251' width='93' height='88'>
+      <label>cback-hand</label>
+    </box>
+    <box top='293' left='228' width='65' height='84'>
+      <label>cback-hand</label>
+    </box>
+    <box top='311' left='186' width='49' height='77'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_1.png'>
+    <box top='331' left='330' width='86' height='112'>
+      <label>cback-hand</label>
+    </box>
+    <box top='314' left='304' width='81' height='118'>
+      <label>cback-hand</label>
+    </box>
+    <box top='308' left='226' width='82' height='119'>
+      <label>cback-hand</label>
+    </box>
+    <box top='385' left='226' width='1' height='1'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_20.png'>
+    <box top='316' left='248' width='69' height='94'>
+      <label>cback-hand</label>
+    </box>
+    <box top='315' left='319' width='69' height='106'>
+      <label>cback-hand</label>
+    </box>
+    <box top='325' left='364' width='93' height='90'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_21.png'>
+    <box top='317' left='245' width='74' height='92'>
+      <label>cback-hand</label>
+    </box>
+    <box top='316' left='318' width='70' height='107'>
+      <label>cback-hand</label>
+    </box>
+    <box top='323' left='368' width='91' height='93'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_22.png'>
+    <box top='319' left='250' width='67' height='97'>
+      <label>cback-hand</label>
+    </box>
+    <box top='317' left='318' width='69' height='106'>
+      <label>cback-hand</label>
+    </box>
+    <box top='322' left='371' width='89' height='86'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_23.png'>
+    <box top='315' left='316' width='72' height='104'>
+      <label>cback-hand</label>
+    </box>
+    <box top='316' left='249' width='70' height='92'>
+      <label>cback-hand</label>
+    </box>
+    <box top='321' left='372' width='89' height='91'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_24.png'>
+    <box top='316' left='250' width='73' height='91'>
+      <label>cback-hand</label>
+    </box>
+    <box top='314' left='320' width='71' height='106'>
+      <label>cback-hand</label>
+    </box>
+    <box top='322' left='370' width='91' height='88'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_25.png'>
+    <box top='317' left='241' width='82' height='96'>
+      <label>cback-hand</label>
+    </box>
+    <box top='314' left='323' width='70' height='104'>
+      <label>cback-hand</label>
+    </box>
+    <box top='318' left='379' width='87' height='88'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_26.png'>
+    <box top='315' left='327' width='72' height='102'>
+      <label>cback-hand</label>
+    </box>
+    <box top='320' left='394' width='78' height='80'>
+      <label>cback-hand</label>
+    </box>
+    <box top='310' left='237' width='86' height='100'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_27.png'>
+    <box top='307' left='239' width='81' height='96'>
+      <label>cfront</label>
+    </box>
+    <box top='312' left='336' width='70' height='104'>
+      <label>cback-hand</label>
+    </box>
+    <box top='316' left='396' width='79' height='91'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_28.png'>
+    <box top='306' left='238' width='80' height='95'>
+      <label>cfront</label>
+    </box>
+    <box top='312' left='339' width='67' height='103'>
+      <label>cback-hand</label>
+    </box>
+    <box top='317' left='394' width='85' height='88'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_29.png'>
+    <box top='304' left='238' width='78' height='98'>
+      <label>cfront</label>
+    </box>
+    <box top='310' left='335' width='73' height='106'>
+      <label>cback-hand</label>
+    </box>
+    <box top='316' left='391' width='86' height='90'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_22.png'>
+    <box top='300' left='265' width='83' height='88'>
+      <label>cback-hand</label>
+    </box>
+    <box top='295' left='229' width='61' height='85'>
+      <label>cback-hand</label>
+    </box>
+    <box top='311' left='183' width='60' height='78'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_2.png'>
+    <box top='314' left='224' width='88' height='116'>
+      <label>cback-hand</label>
+    </box>
+    <box top='318' left='304' width='79' height='93'>
+      <label>cback-hand</label>
+    </box>
+    <box top='337' left='334' width='73' height='99'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_30.png'>
+    <box top='303' left='236' width='76' height='90'>
+      <label>cfront</label>
+    </box>
+    <box top='312' left='334' width='71' height='103'>
+      <label>cback-hand</label>
+    </box>
+    <box top='317' left='395' width='80' height='91'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_31.png'>
+    <box top='299' left='230' width='77' height='92'>
+      <label>cfront</label>
+    </box>
+    <box top='310' left='336' width='71' height='102'>
+      <label>cback-hand</label>
+    </box>
+    <box top='316' left='395' width='81' height='91'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_32.png'>
+    <box top='291' left='222' width='81' height='109'>
+      <label>cfront</label>
+    </box>
+    <box top='309' left='334' width='72' height='106'>
+      <label>cback-hand</label>
+    </box>
+    <box top='317' left='389' width='87' height='95'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_33.png'>
+    <box top='289' left='222' width='80' height='104'>
+      <label>cfront</label>
+    </box>
+    <box top='309' left='335' width='73' height='107'>
+      <label>cback-hand</label>
+    </box>
+    <box top='317' left='393' width='82' height='95'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_34.png'>
+    <box top='288' left='218' width='84' height='110'>
+      <label>cfront</label>
+    </box>
+    <box top='311' left='334' width='71' height='105'>
+      <label>cfront</label>
+    </box>
+    <box top='314' left='406' width='74' height='85'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_35.png'>
+    <box top='287' left='220' width='84' height='113'>
+      <label>cfront</label>
+    </box>
+    <box top='315' left='330' width='74' height='102'>
+      <label>cfront</label>
+    </box>
+    <box top='315' left='404' width='74' height='85'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_36.png'>
+    <box top='290' left='221' width='81' height='116'>
+      <label>cfront</label>
+    </box>
+    <box top='318' left='329' width='73' height='115'>
+      <label>cfront</label>
+    </box>
+    <box top='323' left='403' width='73' height='89'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_37.png'>
+    <box top='292' left='218' width='83' height='117'>
+      <label>cfront</label>
+    </box>
+    <box top='326' left='324' width='79' height='117'>
+      <label>cfront</label>
+    </box>
+    <box top='330' left='404' width='77' height='91'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_38.png'>
+    <box top='294' left='212' width='86' height='117'>
+      <label>cfront</label>
+    </box>
+    <box top='328' left='322' width='82' height='122'>
+      <label>cfront</label>
+    </box>
+    <box top='333' left='403' width='76' height='92'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_39.png'>
+    <box top='294' left='211' width='84' height='115'>
+      <label>cfront</label>
+    </box>
+    <box top='331' left='321' width='82' height='123'>
+      <label>cfront</label>
+    </box>
+    <box top='336' left='402' width='80' height='93'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_23.png'>
+    <box top='300' left='257' width='92' height='89'>
+      <label>cback-hand</label>
+    </box>
+    <box top='297' left='228' width='65' height='74'>
+      <label>cback-hand</label>
+    </box>
+    <box top='312' left='190' width='58' height='78'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_3.png'>
+    <box top='313' left='225' width='82' height='109'>
+      <label>cback-hand</label>
+    </box>
+    <box top='310' left='303' width='77' height='118'>
+      <label>cback-hand</label>
+    </box>
+    <box top='336' left='332' width='70' height='98'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_40.png'>
+    <box top='293' left='213' width='81' height='115'>
+      <label>cfront</label>
+    </box>
+    <box top='331' left='323' width='81' height='127'>
+      <label>cback-hand</label>
+    </box>
+    <box top='337' left='396' width='90' height='106'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_41.png'>
+    <box top='293' left='218' width='78' height='110'>
+      <label>cfront</label>
+    </box>
+    <box top='335' left='323' width='80' height='130'>
+      <label>cback-hand</label>
+    </box>
+    <box top='339' left='395' width='91' height='111'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_42.png'>
+    <box top='295' left='221' width='77' height='105'>
+      <label>cfront</label>
+    </box>
+    <box top='335' left='320' width='91' height='131'>
+      <label>cback-hand</label>
+    </box>
+    <box top='341' left='391' width='100' height='112'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_43.png'>
+    <box top='297' left='222' width='75' height='103'>
+      <label>cfront</label>
+    </box>
+    <box top='337' left='324' width='92' height='130'>
+      <label>cback-hand</label>
+    </box>
+    <box top='342' left='398' width='92' height='112'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_44.png'>
+    <box top='299' left='221' width='78' height='108'>
+      <label>cfront</label>
+    </box>
+    <box top='335' left='327' width='88' height='129'>
+      <label>cback-hand</label>
+    </box>
+    <box top='339' left='397' width='94' height='113'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_45.png'>
+    <box top='301' left='225' width='76' height='113'>
+      <label>cfront</label>
+    </box>
+    <box top='333' left='325' width='91' height='128'>
+      <label>cback-hand</label>
+    </box>
+    <box top='337' left='397' width='95' height='110'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_46.png'>
+    <box top='307' left='226' width='82' height='114'>
+      <label>cfront</label>
+    </box>
+    <box top='329' left='327' width='85' height='128'>
+      <label>cback-hand</label>
+    </box>
+    <box top='336' left='396' width='97' height='107'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_47.png'>
+    <box top='310' left='232' width='82' height='113'>
+      <label>cfront</label>
+    </box>
+    <box top='328' left='324' width='87' height='127'>
+      <label>cback-hand</label>
+    </box>
+    <box top='333' left='393' width='92' height='108'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_48.png'>
+    <box top='312' left='228' width='82' height='113'>
+      <label>cfront</label>
+    </box>
+    <box top='327' left='320' width='86' height='126'>
+      <label>cback-hand</label>
+    </box>
+    <box top='333' left='391' width='95' height='105'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_49.png'>
+    <box top='308' left='210' width='89' height='114'>
+      <label>cfront</label>
+    </box>
+    <box top='327' left='327' width='78' height='124'>
+      <label>cback-hand</label>
+    </box>
+    <box top='332' left='401' width='88' height='103'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_24.png'>
+    <box top='299' left='271' width='87' height='84'>
+      <label>cback-hand</label>
+    </box>
+    <box top='300' left='237' width='60' height='85'>
+      <label>cback-hand</label>
+    </box>
+    <box top='310' left='192' width='59' height='76'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_4.png'>
+    <box top='330' left='329' width='74' height='91'>
+      <label>cback-hand</label>
+    </box>
+    <box top='311' left='303' width='69' height='108'>
+      <label>cback-hand</label>
+    </box>
+    <box top='311' left='227' width='77' height='102'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_50.png'>
+    <box top='300' left='196' width='85' height='117'>
+      <label>cfront</label>
+    </box>
+    <box top='325' left='329' width='86' height='127'>
+      <label>cback-hand</label>
+    </box>
+    <box top='331' left='407' width='86' height='106'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_51.png'>
+    <box top='325' left='331' width='83' height='123'>
+      <label>cback-hand</label>
+    </box>
+    <box top='331' left='406' width='90' height='107'>
+      <label>cback-hand</label>
+    </box>
+    <box top='293' left='193' width='81' height='118'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_52.png'>
+    <box top='325' left='327' width='89' height='124'>
+      <label>cback-hand</label>
+    </box>
+    <box top='330' left='401' width='92' height='109'>
+      <label>cback-hand</label>
+    </box>
+    <box top='289' left='194' width='79' height='113'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_53.png'>
+    <box top='324' left='327' width='80' height='126'>
+      <label>cback-hand</label>
+    </box>
+    <box top='329' left='405' width='85' height='111'>
+      <label>cback-hand</label>
+    </box>
+    <box top='284' left='192' width='90' height='116'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_54.png'>
+    <box top='324' left='327' width='78' height='127'>
+      <label>cback-hand</label>
+    </box>
+    <box top='330' left='405' width='83' height='106'>
+      <label>cback-hand</label>
+    </box>
+    <box top='283' left='193' width='94' height='118'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_55.png'>
+    <box top='323' left='325' width='81' height='129'>
+      <label>cback-hand</label>
+    </box>
+    <box top='329' left='404' width='85' height='109'>
+      <label>cback-hand</label>
+    </box>
+    <box top='284' left='197' width='93' height='121'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_56.png'>
+    <box top='323' left='325' width='87' height='135'>
+      <label>cback-hand</label>
+    </box>
+    <box top='330' left='406' width='84' height='107'>
+      <label>cback-hand</label>
+    </box>
+    <box top='281' left='207' width='85' height='127'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_57.png'>
+    <box top='323' left='328' width='89' height='135'>
+      <label>cback-hand</label>
+    </box>
+    <box top='330' left='406' width='87' height='105'>
+      <label>cback-hand</label>
+    </box>
+    <box top='284' left='210' width='83' height='123'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_58.png'>
+    <box top='323' left='327' width='86' height='134'>
+      <label>cback-hand</label>
+    </box>
+    <box top='329' left='406' width='85' height='113'>
+      <label>cback-hand</label>
+    </box>
+    <box top='283' left='206' width='87' height='121'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_59.png'>
+    <box top='325' left='326' width='93' height='133'>
+      <label>cback-hand</label>
+    </box>
+    <box top='327' left='407' width='86' height='115'>
+      <label>cback-hand</label>
+    </box>
+    <box top='285' left='218' width='69' height='121'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_25.png'>
+  </image>
+  <image file='card-simpleflush2_5.png'>
+    <box top='307' left='229' width='73' height='105'>
+      <label>cback-hand</label>
+    </box>
+    <box top='312' left='299' width='67' height='104'>
+      <label>cback-hand</label>
+    </box>
+    <box top='331' left='325' width='81' height='84'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_60.png'>
+    <box top='325' left='326' width='91' height='131'>
+      <label>cback-hand</label>
+    </box>
+    <box top='330' left='408' width='79' height='113'>
+      <label>cback-hand</label>
+    </box>
+    <box top='286' left='224' width='64' height='117'>
+      <label>cfront</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_61.png'>
+    <box top='326' left='324' width='91' height='132'>
+      <label>cback-hand</label>
+    </box>
+    <box top='329' left='408' width='82' height='113'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_62.png'>
+    <box top='324' left='324' width='84' height='135'>
+      <label>cback-hand</label>
+    </box>
+    <box top='329' left='402' width='85' height='115'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_63.png'>
+    <box top='325' left='328' width='86' height='134'>
+      <label>cback-hand</label>
+    </box>
+    <box top='330' left='408' width='80' height='113'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_64.png'>
+    <box top='326' left='326' width='87' height='130'>
+      <label>cback-hand</label>
+    </box>
+    <box top='330' left='406' width='84' height='107'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_65.png'>
+    <box top='324' left='327' width='87' height='132'>
+      <label>cback-hand</label>
+    </box>
+    <box top='331' left='408' width='82' height='110'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_66.png'>
+    <box top='325' left='328' width='88' height='133'>
+      <label>cback-hand</label>
+    </box>
+    <box top='335' left='408' width='88' height='97'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_67.png'>
+    <box top='325' left='332' width='92' height='130'>
+      <label>cback-hand</label>
+    </box>
+    <box top='332' left='404' width='92' height='105'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_68.png'>
+    <box top='327' left='332' width='94' height='126'>
+      <label>cback-hand</label>
+    </box>
+    <box top='331' left='413' width='83' height='112'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_69.png'>
+    <box top='325' left='336' width='87' height='129'>
+      <label>cback-hand</label>
+    </box>
+    <box top='333' left='406' width='86' height='106'>
+      <label>cback-hand</label>
+    </box>
+    <box top='305' left='183' width='117' height='116'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_26.png'>
+  </image>
+  <image file='card-simpleflush2_6.png'>
+  </image>
+  <image file='card-simpleflush2_70.png'>
+  </image>
+  <image file='card-simpleflush2_71.png'>
+  </image>
+  <image file='card-simpleflush2_72.png'>
+    <box top='328' left='333' width='80' height='130'>
+      <label>cback-hand</label>
+    </box>
+    <box top='335' left='399' width='93' height='106'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_73.png'>
+    <box top='327' left='338' width='80' height='132'>
+      <label>cback-hand</label>
+    </box>
+    <box top='334' left='406' width='86' height='109'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_74.png'>
+    <box top='326' left='335' width='82' height='133'>
+      <label>cback-hand</label>
+    </box>
+    <box top='335' left='403' width='95' height='108'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_75.png'>
+    <box top='324' left='337' width='80' height='135'>
+      <label>cback-hand</label>
+    </box>
+    <box top='335' left='399' width='101' height='108'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_76.png'>
+    <box top='326' left='333' width='85' height='131'>
+      <label>cback-hand</label>
+    </box>
+    <box top='335' left='398' width='96' height='111'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_77.png'>
+  </image>
+  <image file='card-simpleflush2_78.png'>
+  </image>
+  <image file='card-simpleflush2_79.png'>
+  </image>
+  <image file='card-simpleflush2_7.png'>
+    <box top='324' left='334' width='102' height='91'>
+      <label>cback-hand</label>
+    </box>
+    <box top='312' left='306' width='67' height='102'>
+      <label>cback-hand</label>
+    </box>
+    <box top='311' left='245' width='68' height='92'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_80.png'>
+    <box top='302' left='196' width='97' height='102'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_81.png'>
+    <box top='303' left='199' width='95' height='97'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_82.png'>
+    <box top='302' left='196' width='98' height='101'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_83.png'>
+    <box top='300' left='198' width='94' height='100'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_84.png'>
+    <box top='299' left='196' width='97' height='104'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_85.png'>
+    <box top='300' left='198' width='92' height='100'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_86.png'>
+    <box top='300' left='203' width='91' height='94'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_87.png'>
+    <box top='299' left='202' width='93' height='101'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_88.png'>
+    <box top='299' left='207' width='89' height='102'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_89.png'>
+    <box top='300' left='209' width='90' height='95'>
+      <label>cback</label>
+    </box>
+    <box top='327' left='413' width='98' height='129'>
+      <label>cback</label>
+    </box>
+    <box top='341' left='334' width='80' height='129'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_8.png'>
+    <box top='325' left='343' width='95' height='89'>
+      <label>cback-hand</label>
+    </box>
+    <box top='316' left='312' width='63' height='93'>
+      <label>cback-hand</label>
+    </box>
+    <box top='313' left='248' width='66' height='92'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_90.png'>
+    <box top='328' left='412' width='104' height='129'>
+      <label>cback-hand</label>
+    </box>
+    <box top='339' left='328' width='93' height='140'>
+      <label>cback-hand</label>
+    </box>
+    <box top='297' left='214' width='87' height='102'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_91.png'>
+    <box top='324' left='410' width='101' height='131'>
+      <label>cback-hand</label>
+    </box>
+    <box top='334' left='324' width='92' height='142'>
+      <label>cback-hand</label>
+    </box>
+    <box top='295' left='215' width='89' height='95'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_92.png'>
+    <box top='324' left='408' width='102' height='128'>
+      <label>cback-hand</label>
+    </box>
+    <box top='333' left='325' width='94' height='139'>
+      <label>cback-hand</label>
+    </box>
+    <box top='295' left='213' width='91' height='96'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_93.png'>
+    <box top='322' left='406' width='100' height='124'>
+      <label>cback-hand</label>
+    </box>
+    <box top='329' left='319' width='99' height='140'>
+      <label>cback-hand</label>
+    </box>
+    <box top='296' left='215' width='88' height='102'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_94.png'>
+    <box top='316' left='407' width='100' height='127'>
+      <label>cback-hand</label>
+    </box>
+    <box top='326' left='321' width='100' height='140'>
+      <label>cback-hand</label>
+    </box>
+    <box top='295' left='213' width='89' height='103'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_95.png'>
+    <box top='312' left='411' width='91' height='131'>
+      <label>cback-hand</label>
+    </box>
+    <box top='324' left='320' width='98' height='146'>
+      <label>cback-hand</label>
+    </box>
+    <box top='297' left='218' width='84' height='103'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_96.png'>
+    <box top='310' left='411' width='94' height='125'>
+      <label>cback-hand</label>
+    </box>
+    <box top='319' left='324' width='96' height='144'>
+      <label>cback-hand</label>
+    </box>
+    <box top='295' left='216' width='87' height='118'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_97.png'>
+    <box top='310' left='413' width='92' height='126'>
+      <label>cback-hand</label>
+    </box>
+    <box top='319' left='326' width='99' height='151'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_98.png'>
+    <box top='318' left='323' width='102' height='145'>
+      <label>cback-hand</label>
+    </box>
+    <box top='312' left='412' width='93' height='122'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_99.png'>
+    <box top='322' left='327' width='92' height='143'>
+      <label>cback-hand</label>
+    </box>
+    <box top='310' left='416' width='90' height='127'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_29.png'>
+    <box top='317' left='336' width='96' height='90'>
+      <label>cback-hand</label>
+    </box>
+    <box top='311' left='306' width='63' height='95'>
+      <label>cback-hand</label>
+    </box>
+    <box top='324' left='258' width='55' height='85'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush2_9.png'>
+    <box top='310' left='253' width='65' height='91'>
+      <label>cback-hand</label>
+    </box>
+    <box top='313' left='317' width='56' height='92'>
+      <label>cback-hand</label>
+    </box>
+    <box top='324' left='350' width='93' height='82'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_2.png'>
+    <box top='326' left='306' width='89' height='98'>
+      <label>cback-hand</label>
+    </box>
+    <box top='327' left='271' width='59' height='77'>
+      <label>cback-hand</label>
+    </box>
+    <box top='330' left='216' width='65' height='92'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_30.png'>
+    <box top='315' left='344' width='85' height='98'>
+      <label>cback-hand</label>
+    </box>
+    <box top='310' left='305' width='69' height='99'>
+      <label>cback-hand</label>
+    </box>
+    <box top='326' left='258' width='74' height='95'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_31.png'>
+    <box top='315' left='335' width='92' height='95'>
+      <label>cback-hand</label>
+    </box>
+    <box top='308' left='304' width='66' height='92'>
+      <label>cback-hand</label>
+    </box>
+    <box top='329' left='258' width='55' height='78'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_32.png'>
+    <box top='314' left='329' width='96' height='99'>
+      <label>cback-hand</label>
+    </box>
+    <box top='312' left='304' width='61' height='90'>
+      <label>cback-hand</label>
+    </box>
+    <box top='329' left='255' width='62' height='83'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_33.png'>
+    <box top='311' left='326' width='95' height='101'>
+      <label>cback-hand</label>
+    </box>
+    <box top='309' left='292' width='66' height='103'>
+      <label>cback-hand</label>
+    </box>
+    <box top='329' left='246' width='62' height='81'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_34.png'>
+    <box top='310' left='324' width='94' height='94'>
+      <label>cback-hand</label>
+    </box>
+    <box top='308' left='291' width='69' height='102'>
+      <label>cback-hand</label>
+    </box>
+    <box top='330' left='250' width='55' height='80'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_35.png'>
+    <box top='312' left='326' width='91' height='93'>
+      <label>cback-hand</label>
+    </box>
+    <box top='309' left='291' width='67' height='99'>
+      <label>cback-hand</label>
+    </box>
+    <box top='327' left='250' width='57' height='87'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_3.png'>
+    <box top='325' left='307' width='85' height='92'>
+      <label>cback-hand</label>
+    </box>
+    <box top='323' left='275' width='62' height='80'>
+      <label>cback-hand</label>
+    </box>
+    <box top='329' left='229' width='61' height='89'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_40.png'>
+  </image>
+  <image file='card-simpleflush_41.png'>
+  </image>
+  <image file='card-simpleflush_42.png'>
+  </image>
+  <image file='card-simpleflush_43.png'>
+  </image>
+  <image file='card-simpleflush_44.png'>
+  </image>
+  <image file='card-simpleflush_45.png'>
+    <box top='293' left='265' width='98' height='112'>
+      <label>cback-hand</label>
+    </box>
+    <box top='306' left='226' width='66' height='87'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_46.png'>
+    <box top='297' left='391' width='88' height='108'>
+      <label>cback</label>
+    </box>
+    <box top='293' left='265' width='95' height='110'>
+      <label>cback-hand</label>
+    </box>
+    <box top='306' left='225' width='65' height='90'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_47.png'>
+    <box top='299' left='389' width='89' height='100'>
+      <label>cback</label>
+    </box>
+    <box top='296' left='268' width='93' height='105'>
+      <label>cback-hand</label>
+    </box>
+    <box top='303' left='226' width='67' height='90'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_48.png'>
+    <box top='299' left='388' width='84' height='102'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_49.png'>
+    <box top='300' left='383' width='88' height='104'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_4.png'>
+    <box top='328' left='308' width='87' height='89'>
+      <label>cback-hand</label>
+    </box>
+    <box top='322' left='280' width='58' height='80'>
+      <label>cback-hand</label>
+    </box>
+    <box top='329' left='235' width='57' height='84'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_50.png'>
+  </image>
+  <image file='card-simpleflush_51.png'>
+  </image>
+  <image file='card-simpleflush_52.png'>
+  </image>
+  <image file='card-simpleflush_53.png'>
+  </image>
+  <image file='card-simpleflush_54.png'>
+    <box top='303' left='295' width='80' height='108'>
+      <label>cback-hand</label>
+    </box>
+    <box top='316' left='252' width='50' height='84'>
+      <label>cback-hand</label>
+    </box>
+    <box top='309' left='364' width='84' height='94'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_55.png'>
+    <box top='313' left='251' width='58' height='84'>
+      <label>cback-hand</label>
+    </box>
+    <box top='305' left='298' width='76' height='107'>
+      <label>cback-hand</label>
+    </box>
+    <box top='305' left='363' width='84' height='98'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_56.png'>
+  </image>
+  <image file='card-simpleflush_57.png'>
+  </image>
+  <image file='card-simpleflush_58.png'>
+  </image>
+  <image file='card-simpleflush_59.png'>
+  </image>
+  <image file='card-simpleflush_5.png'>
+  </image>
+  <image file='card-simpleflush_60.png'>
+  </image>
+  <image file='card-simpleflush_61.png'>
+  </image>
+  <image file='card-simpleflush_62.png'>
+    <box top='283' left='365' width='71' height='105'>
+      <label>cback-hand</label>
+    </box>
+    <box top='287' left='424' width='76' height='87'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_63.png'>
+    <box top='280' left='375' width='70' height='106'>
+      <label>cback-hand</label>
+    </box>
+    <box top='287' left='436' width='72' height='91'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_64.png'>
+    <box top='279' left='379' width='74' height='106'>
+      <label>cback-hand</label>
+    </box>
+    <box top='286' left='437' width='77' height='87'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_65.png'>
+    <box top='285' left='205' width='88' height='95'>
+      <label>cback</label>
+    </box>
+    <box top='285' left='439' width='83' height='93'>
+      <label>cback-hand</label>
+    </box>
+    <box top='278' left='393' width='63' height='104'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_66.png'>
+    <box top='285' left='204' width='89' height='98'>
+      <label>cback</label>
+    </box>
+    <box top='275' left='399' width='70' height='106'>
+      <label>cback-hand</label>
+    </box>
+    <box top='283' left='455' width='76' height='90'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_67.png'>
+    <box top='285' left='200' width='95' height='100'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_68.png'>
+    <box top='284' left='208' width='89' height='105'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_69.png'>
+    <box top='285' left='209' width='89' height='102'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_6.png'>
+    <box top='324' left='313' width='81' height='89'>
+      <label>cback-hand</label>
+    </box>
+    <box top='320' left='282' width='59' height='75'>
+      <label>cback-hand</label>
+    </box>
+    <box top='326' left='239' width='58' height='84'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_70.png'>
+    <box top='272' left='396' width='69' height='112'>
+      <label>cback-hand</label>
+    </box>
+    <box top='285' left='451' width='78' height='94'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_71.png'>
+    <box top='284' left='447' width='78' height='97'>
+      <label>cback-hand</label>
+    </box>
+    <box top='268' left='392' width='73' height='116'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_72.png'>
+    <box top='282' left='442' width='83' height='100'>
+      <label>cback-hand</label>
+    </box>
+    <box top='275' left='393' width='72' height='107'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_73.png'>
+    <box top='287' left='449' width='80' height='91'>
+      <label>cback-hand</label>
+    </box>
+    <box top='277' left='395' width='71' height='108'>
+      <label>cback-hand</label>
+    </box>
+    <box top='286' left='209' width='88' height='102'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_74.png'>
+    <box top='287' left='213' width='87' height='102'>
+      <label>cback</label>
+    </box>
+    <box top='274' left='399' width='65' height='110'>
+      <label>cback-hand</label>
+    </box>
+    <box top='283' left='451' width='77' height='95'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_75.png'>
+    <box top='287' left='214' width='87' height='102'>
+      <label>cback</label>
+    </box>
+    <box top='276' left='397' width='66' height='109'>
+      <label>cback-hand</label>
+    </box>
+    <box top='287' left='454' width='74' height='94'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_76.png'>
+  </image>
+  <image file='card-simpleflush_79.png'>
+  </image>
+  <image file='card-simpleflush_7.png'>
+    <box top='323' left='312' width='83' height='87'>
+      <label>cback-hand</label>
+    </box>
+    <box top='320' left='282' width='58' height='75'>
+      <label>cback-hand</label>
+    </box>
+    <box top='334' left='239' width='49' height='83'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_80.png'>
+    <box top='303' left='324' width='77' height='110'>
+      <label>cback-hand</label>
+    </box>
+    <box top='308' left='390' width='77' height='96'>
+      <label>cback-hand</label>
+    </box>
+    <box top='310' left='261' width='64' height='95'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_81.png'>
+    <box top='305' left='315' width='78' height='107'>
+      <label>cback-hand</label>
+    </box>
+    <box top='309' left='373' width='90' height='95'>
+      <label>cback-hand</label>
+    </box>
+    <box top='313' left='256' width='65' height='80'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_82.png'>
+    <box top='307' left='253' width='68' height='83'>
+      <label>cback-hand</label>
+    </box>
+    <box top='305' left='315' width='75' height='106'>
+      <label>cback-hand</label>
+    </box>
+    <box top='309' left='375' width='83' height='82'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_83.png'>
+    <box top='308' left='313' width='71' height='104'>
+      <label>cback-hand</label>
+    </box>
+    <box top='309' left='258' width='57' height='88'>
+      <label>cback-hand</label>
+    </box>
+    <box top='309' left='366' width='87' height='101'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_84.png'>
+  </image>
+  <image file='card-simpleflush_85.png'>
+  </image>
+  <image file='card-simpleflush_86.png'>
+    <box top='307' left='248' width='64' height='88'>
+      <label>cback-hand</label>
+    </box>
+    <box top='307' left='315' width='68' height='107'>
+      <label>cback-hand</label>
+    </box>
+    <box top='310' left='365' width='79' height='96'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_87.png'>
+    <box top='309' left='245' width='71' height='89'>
+      <label>cback-hand</label>
+    </box>
+    <box top='309' left='308' width='73' height='102'>
+      <label>cback-hand</label>
+    </box>
+    <box top='311' left='359' width='87' height='93'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_88.png'>
+    <box top='307' left='237' width='75' height='93'>
+      <label>cback-hand</label>
+    </box>
+    <box top='309' left='311' width='66' height='102'>
+      <label>cback-hand</label>
+    </box>
+    <box top='310' left='359' width='87' height='96'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_89.png'>
+    <box top='307' left='238' width='73' height='89'>
+      <label>cback-hand</label>
+    </box>
+    <box top='307' left='306' width='71' height='107'>
+      <label>cback-hand</label>
+    </box>
+    <box top='310' left='360' width='85' height='93'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_8.png'>
+    <box top='325' left='311' width='84' height='86'>
+      <label>cback-hand</label>
+    </box>
+    <box top='320' left='282' width='58' height='83'>
+      <label>cback-hand</label>
+    </box>
+    <box top='332' left='239' width='47' height='76'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_90.png'>
+    <box top='309' left='310' width='68' height='105'>
+      <label>cback</label>
+    </box>
+    <box top='313' left='363' width='83' height='91'>
+      <label>cback</label>
+    </box>
+    <box top='310' left='242' width='70' height='81'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_91.png'>
+    <box top='314' left='365' width='79' height='91'>
+      <label>cback</label>
+    </box>
+    <box top='309' left='312' width='69' height='106'>
+      <label>cback</label>
+    </box>
+    <box top='307' left='239' width='74' height='85'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_92.png'>
+    <box top='309' left='314' width='70' height='107'>
+      <label>cback</label>
+    </box>
+    <box top='318' left='376' width='71' height='89'>
+      <label>cback</label>
+    </box>
+    <box top='308' left='242' width='73' height='89'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_93.png'>
+    <box top='309' left='312' width='72' height='108'>
+      <label>cback</label>
+    </box>
+    <box top='316' left='377' width='71' height='86'>
+      <label>cback</label>
+    </box>
+    <box top='308' left='246' width='68' height='86'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_94.png'>
+    <box top='317' left='371' width='77' height='87'>
+      <label>cback</label>
+    </box>
+    <box top='311' left='316' width='66' height='105'>
+      <label>cback</label>
+    </box>
+    <box top='309' left='244' width='73' height='86'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_95.png'>
+    <box top='310' left='244' width='71' height='78'>
+      <label>cback</label>
+    </box>
+    <box top='311' left='314' width='70' height='101'>
+      <label>cback</label>
+    </box>
+    <box top='316' left='380' width='69' height='90'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_96.png'>
+    <box top='316' left='375' width='73' height='96'>
+      <label>cback</label>
+    </box>
+    <box top='314' left='314' width='73' height='102'>
+      <label>cback</label>
+    </box>
+    <box top='310' left='245' width='70' height='88'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_97.png'>
+    <box top='319' left='383' width='65' height='94'>
+      <label>cback</label>
+    </box>
+    <box top='314' left='315' width='70' height='97'>
+      <label>cback</label>
+    </box>
+    <box top='311' left='245' width='71' height='87'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_98.png'>
+    <box top='316' left='314' width='71' height='107'>
+      <label>cback</label>
+    </box>
+    <box top='318' left='375' width='70' height='97'>
+      <label>cback</label>
+    </box>
+    <box top='311' left='246' width='70' height='101'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_99.png'>
+    <box top='319' left='373' width='73' height='97'>
+      <label>cback</label>
+    </box>
+    <box top='315' left='313' width='80' height='104'>
+      <label>cback</label>
+    </box>
+    <box top='310' left='246' width='68' height='92'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-simpleflush_9.png'>
+    <box top='326' left='316' width='80' height='82'>
+      <label>cback-hand</label>
+    </box>
+    <box top='318' left='280' width='60' height='91'>
+      <label>cback-hand</label>
+    </box>
+    <box top='330' left='233' width='56' height='83'>
+      <label>cback-hand</label>
+    </box>
+  </image>
+  <image file='card-single_0.png'>
+    <box top='323' left='328' width='90' height='129'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_10.png'>
+    <box top='230' left='216' width='103' height='126'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_11.png'>
+    <box top='224' left='219' width='108' height='131'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_12.png'>
+    <box top='218' left='226' width='107' height='133'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_13.png'>
+    <box top='216' left='231' width='111' height='136'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_14.png'>
+    <box top='211' left='232' width='109' height='141'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_15.png'>
+    <box top='208' left='239' width='106' height='140'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_16.png'>
+    <box top='207' left='239' width='110' height='140'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_17.png'>
+    <box top='201' left='251' width='110' height='143'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_18.png'>
+    <box top='199' left='256' width='114' height='134'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_19.png'>
+    <box top='197' left='272' width='120' height='134'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_1.png'>
+    <box top='324' left='318' width='90' height='124'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_20.png'>
+    <box top='192' left='295' width='111' height='134'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_21.png'>
+    <box top='185' left='309' width='110' height='137'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_22.png'>
+    <box top='183' left='323' width='113' height='136'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_23.png'>
+    <box top='178' left='340' width='116' height='137'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_24.png'>
+    <box top='175' left='351' width='122' height='134'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_25.png'>
+    <box top='171' left='368' width='119' height='134'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_26.png'>
+    <box top='161' left='377' width='116' height='139'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_27.png'>
+    <box top='157' left='372' width='121' height='140'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_28.png'>
+    <box top='158' left='368' width='111' height='133'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_29.png'>
+    <box top='152' left='347' width='119' height='134'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_2.png'>
+    <box top='331' left='308' width='95' height='123'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_36.png'>
+    <box top='112' left='134' width='105' height='143'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_37.png'>
+    <box top='106' left='107' width='113' height='146'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_38.png'>
+    <box top='105' left='96' width='105' height='145'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_39.png'>
+    <box top='100' left='74' width='107' height='143'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_3.png'>
+    <box top='337' left='297' width='96' height='123'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_40.png'>
+    <box top='100' left='64' width='99' height='143'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_41.png'>
+    <box top='97' left='48' width='102' height='145'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_42.png'>
+    <box top='94' left='39' width='104' height='147'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_43.png'>
+    <box top='95' left='38' width='101' height='145'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_44.png'>
+    <box top='97' left='41' width='96' height='142'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_57.png'>
+  </image>
+  <image file='card-single_59.png'>
+    <box top='82' left='100' width='108' height='148'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_60.png'>
+    <box top='76' left='109' width='106' height='150'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_61.png'>
+    <box top='85' left='116' width='108' height='146'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_62.png'>
+    <box top='97' left='124' width='106' height='152'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_63.png'>
+  </image>
+  <image file='card-single_65.png'>
+    <box top='138' left='182' width='111' height='152'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_66.png'>
+    <box top='137' left='202' width='116' height='162'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_67.png'>
+    <box top='144' left='238' width='127' height='164'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_68.png'>
+    <box top='143' left='253' width='129' height='164'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_69.png'>
+    <box top='138' left='262' width='131' height='170'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_70.png'>
+    <box top='144' left='272' width='129' height='162'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_71.png'>
+    <box top='148' left='284' width='130' height='158'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_72.png'>
+    <box top='149' left='296' width='131' height='160'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_73.png'>
+    <box top='151' left='314' width='130' height='162'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_74.png'>
+    <box top='152' left='326' width='135' height='159'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_75.png'>
+    <box top='156' left='339' width='132' height='159'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_76.png'>
+    <box top='159' left='341' width='139' height='158'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_77.png'>
+    <box top='163' left='360' width='125' height='162'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_78.png'>
+    <box top='171' left='358' width='141' height='161'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_79.png'>
+    <box top='172' left='366' width='142' height='163'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_7.png'>
+    <box top='254' left='200' width='113' height='131'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_80.png'>
+    <box top='180' left='385' width='128' height='157'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_85.png'>
+    <box top='298' left='467' width='141' height='161'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_86.png'>
+    <box top='314' left='465' width='137' height='158'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_87.png'>
+    <box top='323' left='462' width='129' height='155'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_88.png'>
+    <box top='331' left='435' width='131' height='147'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_89.png'>
+    <box top='328' left='402' width='145' height='148'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_8.png'>
+    <box top='246' left='200' width='112' height='135'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_90.png'>
+    <box top='329' left='387' width='132' height='148'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_96.png'>
+    <box top='266' left='224' width='141' height='168'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_97.png'>
+    <box top='249' left='219' width='144' height='166'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_98.png'>
+    <box top='230' left='219' width='142' height='172'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_99.png'>
+    <box top='220' left='218' width='145' height='164'>
+      <label>cback</label>
+    </box>
+  </image>
+  <image file='card-single_9.png'>
+    <box top='234' left='203' width='110' height='133'>
+      <label>cback</label>
+    </box>
+  </image>
+</images>
+</dataset>
