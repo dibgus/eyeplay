@@ -1,3 +1,0 @@
-/home/ikrukov/PycharmProjects/Eyeplay/build/CMakeFiles/edit_cache.dir
-/home/ikrukov/PycharmProjects/Eyeplay/build/CMakeFiles/rebuild_cache.dir
-/home/ikrukov/PycharmProjects/Eyeplay/build/CMakeFiles/dnn-test.dir
