@@ -1,8 +1,8 @@
 import cv2
 import os
-trainingrunname = "card-sideways"
+trainingrunname = "template-Aclub"
 camera = cv2.VideoCapture(0)
-framemax = 40
+framemax = 1
 if not os.path.exists("testcases/"):
     os.makedirs("testcases")
 i = 0
