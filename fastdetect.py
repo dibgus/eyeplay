@@ -1,7 +1,6 @@
 import numpy as np
 import cv2
 from matplotlib import pyplot as plt
-import datetime
 MIN_MATCH_COUNT = 10
 
 img1 = cv2.imread('template-symbols/Cardback.jpg',0)          # queryImage
@@ -10,9 +9,7 @@ img1 = cv2.imread('template-symbols/Cardback.jpg',0)          # queryImage
 fast = cv2.xfeatures2d.SURF_create(400)
 # find the keypoints and descriptors with SIFT
 kp1, des1 = fast.detectAndCompute(img1,None)
-start = datetime.time()
 camera = cv2.VideoCapture(0)
-framecnt = 0
 while True:
     grabbed, img2 = camera.read()
     img2 = cv2.cvtColor(img2, cv2.COLOR_BGR2GRAY)
@@ -46,11 +43,6 @@ while True:
         #dst = cv2.perspectiveTransform(pts,M)
         dst = cv2.transform
         #img2 = cv2.polylines(img2,[np.int32(dst)],True,255,3, cv2.LINE_AA)
-        current = time.time()
-        framecnt += 1
-        if current.second > start.second:
-            print(framecnt,"FPS: {}")
-            framecnt = 0
     else:
         print "Not enough matches are found - %d/%d" % (len(good),MIN_MATCH_COUNT)
         matchesMask = None

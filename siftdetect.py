@@ -4,7 +4,7 @@ from matplotlib import pyplot as plt
 
 MIN_MATCH_COUNT = 10
 
-img1 = cv2.imread('template-symbols/Cardback.jpg',0)          # queryImage
+img1 = cv2.imread('template-symbols/Cardface.jpg',0)          # queryImage
 
 # Initiate SIFT detector
 sift = cv2.xfeatures2d.SIFT_create()
@@ -43,8 +43,11 @@ while True:
 
         h,w = img1.shape
         pts = np.float32([ [0,0],[0,h-1],[w-1,h-1],[w-1,0] ]).reshape(-1,1,2)
-        dst = cv2.perspectiveTransform(pts,M)
-
+        try:
+            dst = cv2.perspectiveTransform(pts,M)
+        except Exception:
+            pass
+            continue
         img2 = cv2.polylines(img2,[np.int32(dst)],True,255,3, cv2.LINE_AA)
 
     else:
