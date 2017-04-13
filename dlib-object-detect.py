@@ -4,7 +4,7 @@ import cv2
 import numpy as np
 # src  http://www.pyimagesearch.com/2017/01/02/rotate-images-correctly-with-opencv-and-python/
 
-SVM_FILE = 'machine-learned/detector-c50mod.svm'
+SVM_FILE = 'machine-learned/detector-n50.svm'
 detector = dlib.simple_object_detector(SVM_FILE)
 video = cv2.VideoCapture(0)
 while(True):
