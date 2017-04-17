@@ -1,7 +1,7 @@
 #blackjack, so i'm not worrying about suits
 import random
 CARD_LABELS = ["2", "3", "4", "5", "6", "7", "8", "9", "10", "Jack", "Queen", "King", "Ace"]
-DEALER_POLICY = 17 #The value the dealer should try to get
+DEALER_POLICY = 16 #The value the dealer should try to get
 def deck_value(deck):
     value = 0
     aces = 0
@@ -31,13 +31,13 @@ class game_state:
         self.playerhand.append(self.deck.pop())
         self.dealerhand.append(self.deck.pop())
 
+
     # plays a single round. Dealer follows a policy to hit 16
     # The player passes hit (0 or 1) dictated by the neural network results
     # returns 0 if game has ended, 1 if it keeps going
     def play_round(self, hit):
         if hit:
             self.playerhand.append(self.deck.pop())
-            print "hit!"
         if deck_value(self.dealerhand) < 17:
             self.dealerhand.append(self.deck.pop())
         elif not hit or deck_value(self.playerhand) > 21:
@@ -47,11 +47,8 @@ class game_state:
     def game_end(self):
         playervalue = 0
         dealervalue = 0
-        for i in range(0, len(self.playerhand)):
-            playervalue += deck_value(self.playerhand)
-
-        for i in range(0, len(self.dealerhand)):
-            dealervalue += deck_value(self.dealerhand)
+        playervalue += deck_value(self.playerhand)
+        dealervalue += deck_value(self.dealerhand)
         if playervalue == 21:
             return 15
         elif playervalue > 21:
@@ -67,11 +64,8 @@ class game_state:
     def print_readable_state(self):
         playervalue = 0
         dealervalue = 0
-        for i in range(0, len(self.playerhand)):
-            playervalue += deck_value(self.playerhand)
-
-        for i in range(0, len(self.dealerhand)):
-            dealervalue += deck_value(self.dealerhand)
+        playervalue += deck_value(self.playerhand)
+        dealervalue += deck_value(self.dealerhand)
         print("Player's hand(%s): " % playervalue + ", ".join(self.playerhand))
         print("Dealer's hand(%s): " % dealervalue + ", ".join(self.dealerhand))
         print("Perceived reward: %s" % self.game_end())
@@ -95,6 +89,7 @@ model.compile(loss='mse', optimizer=rms)
 def train(epochs=10000,gamma=0.9,epsilon=1):
     for i in range(epochs):
         game = game_state()
+        print("new game")
         ingame = 1
         while ingame:
             qvalue = model.predict(numpy.array([deck_value(game.playerhand), len(game.dealerhand)]).reshape(1,2), batch_size=1)
@@ -114,10 +109,11 @@ def train(epochs=10000,gamma=0.9,epsilon=1):
                 update = reward
             y[0][action] = update #target out
             print("Game %s" % (i,))
-            model.fit(numpy.array([game.playerhand, len(game.dealerhand)]).reshape(1,2), y, batch_size=1, nb_epoch=1, verbose=1)
+            model.fit(numpy.array([deck_value(game.playerhand), len(game.dealerhand)]).reshape(1,2), y, batch_size=1, nb_epoch=1, verbose=1) #LINE THAT ERRORS
             if not ingame:
                 game.print_readable_state()
             if epsilon > 0.1:
                 epsilon -= (1/epochs)
 
 train()
+model.save("reinforced_trained.h5")
